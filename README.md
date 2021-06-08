@@ -1,3 +1,3 @@
 # lv
 canvas
-pages: https://kaixuanzz.github.io/lv/index
+pages: https://Caseyz.github.io/lv/index
